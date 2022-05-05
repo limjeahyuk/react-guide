@@ -18,8 +18,8 @@ const ExpenseForm = (props) => {
     //   enteredTitle: event.target.value,
     // });
     // setUserInput((prevState) => {
-    //   return { ...prevState, enteredTitle: event.target.value};
-    // })
+    //   return { ...prevState, enteredTitle: event.target.value };
+    // });
   };
 
   const amountChangeHandler = (event) => {
